@@ -7,7 +7,7 @@ DNA Toolbox is an Android application which can
 This app was made as part CSE 235 - Bioinformatics Assignment given by Nafis Neehal, Lecturer, Department of Computer Science and Engineering, Daffodil International University.
 
 # Screenshots
-![Main Screen](https://github.com/musfiqus/dna-toolbox/raw/master/screenshots/shot1.png "Main Screen")
-![Second Screen](https://github.com/musfiqus/dna-toolbox/raw/master/screenshots/shot2.png  "Second Screen")
+<img src="https://github.com/musfiqus/dna-toolbox/raw/master/screenshots/shot1.png" width="270" height="480"><br/>
+<img src="https://github.com/musfiqus/dna-toolbox/raw/master/screenshots/shot2.png" width="270" height="480">
 
 
