@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Bioinformatics Assignment</string>
+    <string name="app_name">DNA Toolbox</string>
     <string name="count_nucleotides">Count Nucleotides</string>
     <string name="transcribe_dna_rna">Transcribe DNA - RNA</string>
     <string name="complement_dna_rna">Complement DNA - RNA</string>
