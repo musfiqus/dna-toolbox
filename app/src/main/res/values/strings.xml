@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bioinformatics Assignment</string>
+    <string name="count_nucleotides">Count Nucleotides</string>
+    <string name="transcribe_dna_rna">Transcribe DNA - RNA</string>
+    <string name="complement_dna_rna">Complement DNA - RNA</string>
+    <string name="calculate">Calculate</string>
+    <string name="transcribe">Transcribe</string>
+    <string name="complement">Complement</string>
+    <string name="hint_nuc">Enter Nucleotides</string>
+    <string name="nuc_count">Nucleotides Count</string>
+    <string name="rna_strand_header">Transcribed RNA Strand</string>
+    <string name="complement_header">Complemented DNA Strand</string>
+    <string name="invalid_input_error">enter a valid DNA string</string>
+    <string name="hint_dna">Enter DNA string</string>
+</resources>

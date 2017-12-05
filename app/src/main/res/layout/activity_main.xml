@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="me.mushfiqussalehin.bioinformaticsassignment.MainActivity">
+    <include
+        android:id="@+id/appbar_layout_main"
+        layout="@layout/appbar_layout">
+    </include>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/count_nucleotides_button"
+            style="@style/ButtonStyle"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/count_nucleotides"/>
+        <Button
+            android:id="@+id/transcribe_button"
+            style="@style/ButtonStyle"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/transcribe_dna_rna"/>
+        <Button
+            android:id="@+id/complement_button"
+            style="@style/ButtonStyle"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/complement_dna_rna"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>
